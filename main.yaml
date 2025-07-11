@@ -5,3 +5,4 @@
   connection: local
   roles: # this will automatically load a folder called roles in current working directory.
   - "{{ component }}"
+
